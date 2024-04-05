@@ -6,7 +6,7 @@ Le but du projet
 ----------------
 
 Ce projet est celui que j'ai proposé comme oral de TIPE durant ma 3/2 de MPI en classe préparatoire.  
-Pour pouvoir comprendre le projet et l'ensemble de ces objectifs, il vous suffit d'aller sur le pdf : projet.pdf  
+Pour pouvoir comprendre le projet et l'ensemble de ces objectifs, il vous suffit d'aller sur le pdf : rapport.pdf  
 
 
 Comment faire marcher le programme ?
